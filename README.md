@@ -40,7 +40,7 @@ Todas as funcionalidades são **offline**
 
 ## Instruções de execução
 
-1. Clique em github-pages no lado direito da tela logo abaixo de Deployments
-2. depois clique no link https://hugo-ryan.github.io/login-lol/
+1. Clique em github-pages no lado direito da tela logo abaixo de Deployments e no link que aparecer
+2. Ou apenas clique no link a seguir: https://hugo-ryan.github.io/login-lol/
 3. login "lol" e senha lol123 para execução local
 
